@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm meena-gang</h1>
+<p>Dynamic Full Stack Web Developer with robust MERN stack capabilities (MongoDB, Express.js, React.js, Node.js). 
+  Proficient in Generative AI and rapidly mastering new technologies. </p>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **python**
