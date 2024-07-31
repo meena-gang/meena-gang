@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm meena-gang</h1>
-<p>Dynamic Full Stack Web Developer with robust MERN stack capabilities (MongoDB, Express.js, React.js, Node.js). 
+<h1 align="center">Hi 👋, I'm Meena Gang (#FullStack Developer)</h1>
+<p>I'm a skilled software developer with experience in JavaScript, and expertise in frameworks like React, Node.js, and material UI. 
   Proficient in Generative AI and rapidly mastering new technologies.</p>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-- 🌱 I’m currently learning **python**
 
 - 👨‍💻 Please visit my portfolio <a target="_blank" href="https://meena-gang-portfolio.vercel.app/">[https://meena-gang-portfolio.vercel.app/]</a>
 
