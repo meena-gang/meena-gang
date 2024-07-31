@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meena Gang (#FullStack Developer)</h1>
+<img src = "https://user-images.githubusercontent.com/62628408/149734737-cd534c5b-03d9-4ad3-af77-70d6784d98cc.png" />
 <p>I'm a skilled software developer with experience in JavaScript, and expertise in frameworks like React, Node.js, and material UI. 
   Proficient in Generative AI and rapidly mastering new technologies.</p>
 
