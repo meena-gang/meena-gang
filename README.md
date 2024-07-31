@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://3-d-portfolio-sigma-two.vercel.app/](https://3-d-portfolio-sigma-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://meena-gang-portfolio.vercel.app/)/](https://3-d-portfolio-sigma-two.vercel.app/)
 
 - 💬 Ask me about **react,node,html,css,python**
 
