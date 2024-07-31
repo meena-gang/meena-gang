@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at <a target="_blank" href="https://meena-gang-portfolio.vercel.app/">[https://meena-gang-portfolio.vercel.app/](https://meena-gang-portfolio.vercel.app/)</a>
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://meena-gang-portfolio.vercel.app/">[https://meena-gang-portfolio.vercel.app/]</a>
 
 - 💬 Ask me about **react,node,html,css,python**
 
